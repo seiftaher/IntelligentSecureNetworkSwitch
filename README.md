@@ -3,7 +3,7 @@ Intelligent Secure Network Switch
 
 ### Introduction
 
-Intelligent Secure Network Switch using machine learning.
+Intelligent Secure Network Switch that uses machine learning in classifying ransomware traffic.
 
 
 ### Tech Stack
